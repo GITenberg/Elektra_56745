@@ -1,0 +1,33 @@
+_repo: Elektra_56745
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Csiky, Gergely
+    alias: Csiki, Gergely
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '32843'
+    url: http://www.gutenberg.org/2009/agents/32843
+    wikipedia: http://hu.wikipedia.org/wiki/Csiky_Gergely
+creator:
+  author:
+    agent_name: Sophocles
+    alias: Σοφοκλής
+    birthdate: -496
+    deathdate: -406
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia: http://en.wikipedia.org/wiki/Sophocles
+description: ''
+gutenberg_issued: '2018-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56745'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elektra
+url: http://www.gutenberg.org/ebooks/56745
